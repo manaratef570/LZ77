@@ -1,2 +1,2 @@
 # LZ77
-compress data using LZ77
+compress and decompress data using LZ77
